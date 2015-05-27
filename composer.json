@@ -1,0 +1,19 @@
+{
+    "name": "tudor/phpnotifications",
+    "description": "Testing PHP notifications for Mac and Windows 7 & 8 using JoliNotif",
+    "require": {
+        "jolicode/jolinotif": "~1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "authors": [
+        {
+            "name": "Tudor-Dan Ravoiu",
+            "email": "tudor2004@yahoo.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"Plenty\\": "modules/"}
+    }
+}
