@@ -7,7 +7,7 @@ class NotifyController
 {
 	const TYPE_SUCCESS  = 'success';
 	const TYPE_ERROR    = 'error';
-	const TYPE_WARNING  = 'warnin';
+	const TYPE_WARNING  = 'warning';
 
 	/**
 	 * @var null
